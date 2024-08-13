@@ -17,3 +17,5 @@ INSTRUCTIONS
 3. Discuss with the bot regarding your new playlist
 4. Your playlist will be created in Spotify
     
+UPCOMING CHANGES
+Currently working on a better user interface for the program as the current program uses the console. Working on an interface to log in to Spotify in an easier way.  
