@@ -1,6 +1,6 @@
 # PlaylistCreationBot 1.0
 OpenAI powered playlist-creating chatbot. This chatbot utilizes OpenAI API and Spotify API to create users' playlists on their Spotify account. The chatbot will discuss with the user what kind of songs or what specific songs the user wants in their playlist. The program will then create the playlist in the user's Spotify account.
-Features
+FEATURES
   - Song suggestion/recommendation: Users can ask the bot to recommend songs based on any specifications (e.g. a certain mood or a certain artist)
   - Instantaneous playlist creation in your Spotify account: The bot will create the playlist for you in your Spotify account 
   - Quicker playlist creation: Users can add multiple songs to their new playlist at the same time
